@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: lightgray;
+    width: 100%;
+    height: 100px;
+    position: relative;
+}
+
+.small-blue-box {
+    width: 75px;
+    height: 75px;
+    background-color: blue;
+    position: absolute;
+    bottom: 0;
+    margin: 15px;
+}
+
+.content-box {
+    width: 100%;
+    height: 200px;
+    margin: 0 auto;
+    padding: 10px;
+    display: inline-block;
+}
+
+p {
+    text-align: center;
+}
+
+.blue {
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+}
+
+.teal {
+    width: 100%;
+    height: 100px;
+    background-color: teal;
+}
+
+.green {
+    width: 100%;
+    height: 100px;
+    background-color: green;
+}
+
+.yellow {
+    width: 100%;
+    height: 100px;
+    background-color: yellow;
+}
+
